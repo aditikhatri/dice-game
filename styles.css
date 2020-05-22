@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #40BAD5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #862A5C;
+}
+
+p {
+  font-size: 2rem;
+  color: #142850;
+  font-family: 'serif', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+
+  margin-top: 5%;
+  color: #06623B;
+  text-align: center;
+  font-family: 'sans serif', cursive;
+font-size: 2.5rem;
+font-weight: bold;
+font-style: italic;
+}
